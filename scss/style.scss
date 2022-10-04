@@ -1,0 +1,82 @@
+
+@import "base";
+
+.hat {
+    width: 90px;
+    height: 55px;
+}
+
+.menu_ul {
+    float: right;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu_ul li {
+    display: inline;
+    margin-right: 80px;
+    font-size: 20px;
+   
+}
+
+h1 {
+    font-size: 60px;
+    text-align:center;
+    font-family: 'Great Vibes', cursive;
+
+
+}
+.container {
+    text-align: center;
+    .container_ul {
+    text-align: center;
+    
+   }
+}
+
+
+.img1 {
+    width: 1920px;
+    height: 700px;
+}
+
+.feature {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.product {
+    margin-left: 330px;
+}
+
+h2 {
+    margin-left: 510px;
+    font-size: 30px;
+}
+
+.fa-circle-chevron-right {
+    font-size: 50px;
+}
+
+.line {
+    margin-bottom: 100px;
+    margin-left: 10px;
+}
+
+.footer {
+    justify-content: space-around;
+    display: flex;
+    font-size: 20px;
+    ul {
+        list-style: none;
+    }
+    .column2 {
+        h3 {
+            text-align: center;
+        }
+    }
+}
